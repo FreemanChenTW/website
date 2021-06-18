@@ -1,2 +1,3 @@
-My personal website 我的個人網站
+# Freeman Chen's Personal Website 我的個人網站
+
 https://freemanchentw.github.io/website/
