@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<title>Freeman Chen's Website</title>
+<description>Blog updates</description>
+<language>en-us</language>
+<link>https://freemanchentw.github.io/website/rss.xml</link>
+<atom:link href="https://freemanchentw.github.io/website/rss.xml" rel="self" type="application/rss+xml" />
+
+<!-- LB -->
+
+<item>
+<title>Finished Tweaking the Blog System! 終於搞定部落格系統了</title>
+<guid>https://freemanchentw.github.io/website/2021.html#finished-tweaking-the-blog-system</guid>
+<pubDate>Fri, 18 Jun 2021 22:32:44 +0800</pubDate>
+<description><![CDATA[
+<p>A couple days ago, I started using the 'lb' script by <a href='https://lukesmith.xyz'>Luke Smith</a>. It is basically a simple blog system. So I started changing stuff and now it's done. What can I say? Surely, reading and changing shell scripts is dead easy. Just learn it, man. It's good for you. The hard part, for me, is understanding commands like sed, awk, and the like, relgular expression as well. Mind you, I have no experience learning any programming language or scripting at all. Although I'm quite used to using command lines, cli programs and configuring them a long time ago, I've never really used sed or stuff like that. So, the main change I made to the 'lb' script, is adding the two line of code, which is not put in the script itself,  shown in one of his video, the function that write the latest few blog entries into the home page. Anyway, thank you, Luke, for making this script. I do hope he will add his tagging script into the blogging system (He did post the commands doing it on his site, but it's still rocket science to me.), though. That way, it would become perfect. This is Free *nix magic, bro.</p>
+<p>Just in case you are curious: <a href='https://github.com/FreemanChenTW/lb'>https://github.com/FreemanChenTW/lb</a></p>
+<p>More blogs coming soon!</p>
+<p>幾天前，我開始使用<a href='https://lukesmith.xyz'>Luke Smith</a>寫的'lb'腳本，基本上就是一個簡單的部落格系統。所以我花了這幾天研究它，現在終於搞定了。老實說，第一次搞shell腳本下來，讀懂和修改其實真的超簡單，而且我還沒有學任何程式語言的經驗勒。拜託快去學，真的，益處多多阿。但對我來說難的地方在於要理解sed或awk這一類指令或是正規表達式。這幾年用GNU/Linux下來我已經很習慣改用純命令界面的程式、用指令、自訂我的系統，但我幾乎沒在用那一類的指令。我主要對'lb'腳本修改的部份是讓首頁顯示近期po文的功能，雖然Luke有在他的影片秀出來這個功能的代碼，不過他沒把代碼加進去腳本裡。不論如何，謝啦，Luke。不過我是蠻希望他也把標籤文章的功能一併加上的（他在在自己的網誌上有po指令，不過就我的程度那看起來跟火箭科學沒兩樣），這樣對我來說就非常完美了。這就是自由unix魔法，老兄。</p>
+<p>腳本在這裡:<a href='https://github.com/FreemanChenTW/lb'>https://github.com/FreemanChenTW/lb</a></p>
+<p>撰寫更多文章中，敬請期待！</p>
+]]></description>
+</item>
+
+
+
+
+<item>
+<title>Plan 計畫</title>
+<guid>https://freemanchentw.github.io/website/2021.html#plan</guid>
+<pubDate>Fri, 28 May 2021 00:00:00 +0800</pubDate>
+<description><![CDATA[
+<p>Thanks to <a href="https://invidious.kavin.rocks/watch?v=KJadKSKA7Mg">this video</a> of Luke Smith's I have set up my personal website in an hour. Now it is finally time to delete my zuckbook account, thank God! So, here's my plan. Now that I got my own website, the next step is to set up my self host email and matrix server, so I can replace EVILmail and Line with those. I'm looking foward to it!</p>
+<p>多虧Luke Smith的這支<a href="https://invidious.kavin.rocks/watch?v=KJadKSKA7Mg">影片</a>，我在一小時內就把我的個人網站寫好了，終於可以把fb刪掉了！感謝老天！接下來我打算self host email和matrix，用來取代萬惡的gmail和Line，期待那天的到來！</p>
+]]></description>
+</item>
+
+
+<item>
+<title>First Blog</title>
+<guid>https://freemanchentw.github.io/website/2021.html#first-blog</guid>
+<pubDate>Thu, 27 May 2021 00:00:00 +0800</pubDate>
+<description><![CDATA[
+<p>The very first website of my own! Hooray!</p>
+]]></description>
+</item>
+
+
+
+
+</channel>
+</rss>
